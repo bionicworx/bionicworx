@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bionicworx</h1>
+<h1 align="center">Hi 👋, I'm R. Alfoudari</h1>
 <h3 align="center">sysadmin | tech tinkerer | v60 snob</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bionicworx&label=Profile%20views&color=0e75b6&style=flat" alt="bionicworx" /> </p>
