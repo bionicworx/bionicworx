@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bionicworx&label=Profile%20views&color=0e75b6&style=flat" alt="bionicworx" /> </p>
 
-- 🌱 I’m currently learning: **Python, Jekyll & Git**
-
 - 📫 Reach me by sending a message here and I will reply as soon as I am able to!
-
-- ⚡ Fun fact: **I'm actually bionic! Ask me about it. ;)**
 
 <p align="left">
 </p>
